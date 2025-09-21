@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Ribbit Archive</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Home on Ribbit Archive</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RA-001</title>
+      <link>https://example.org/001/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/001/</guid>
+      <description>&lt;p class=&#34;article-image&#34;&gt;&lt;img src=&#34;https://example.org/images/RA/001.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Device #:&lt;/strong&gt; RA-001&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Device type:&lt;/strong&gt; Mobile Platform&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; OpenScout&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; &lt;a href=&#34;https://cern-ohl.web.cern.ch/&#34;&gt;CERN-OHL-W-2.0&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Build Complexity:&lt;/strong&gt; No specialised tools are required to assemble RA-001 beyond a flathead and Philips-head screwdriver, along with M2/3/4/5 Hex Keys.&#xA;Having access to a laser cutter is beneficial for the acrylic stages, but they can be accomplished through alternative means such as ordering pre-cut acrylic online.&#xA;At least basic electronics skills are required, as one must read a circuit diagram, connect the wires correctly, and be able to safely handle a lead-acid battery.&#xA;Beyond that, assembly is simply screwing parts together.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RA-002</title>
+      <link>https://example.org/002/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/002/</guid>
+      <description>&lt;p&gt;Device #: RA-002&lt;/p&gt;&#xA;&lt;p&gt;Device type:&lt;/p&gt;&#xA;&lt;p&gt;License:&lt;/p&gt;&#xA;&lt;p&gt;Build Complexity:&lt;/p&gt;&#xA;&lt;p&gt;Description:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RA-003</title>
+      <link>https://example.org/003/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/003/</guid>
+      <description>&lt;p&gt;Device #: RA-003&lt;/p&gt;&#xA;&lt;p&gt;Device type:&lt;/p&gt;&#xA;&lt;p&gt;License:&lt;/p&gt;&#xA;&lt;p&gt;Build Complexity:&lt;/p&gt;&#xA;&lt;p&gt;Description:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RA-004</title>
+      <link>https://example.org/004/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/004/</guid>
+      <description>&lt;p&gt;Device #: RA-004&lt;/p&gt;&#xA;&lt;p&gt;Device type:&lt;/p&gt;&#xA;&lt;p&gt;License:&lt;/p&gt;&#xA;&lt;p&gt;Build Complexity:&lt;/p&gt;&#xA;&lt;p&gt;Description:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RA-005</title>
+      <link>https://example.org/005/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/005/</guid>
+      <description>&lt;p&gt;Device #: RA-005&lt;/p&gt;&#xA;&lt;p&gt;Device type:&lt;/p&gt;&#xA;&lt;p&gt;License:&lt;/p&gt;&#xA;&lt;p&gt;Build Complexity:&lt;/p&gt;&#xA;&lt;p&gt;Description:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RA-006</title>
+      <link>https://example.org/006/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/006/</guid>
+      <description>&lt;p&gt;Device #: RA-006&lt;/p&gt;&#xA;&lt;p&gt;Device type:&lt;/p&gt;&#xA;&lt;p&gt;License:&lt;/p&gt;&#xA;&lt;p&gt;Build Complexity:&lt;/p&gt;&#xA;&lt;p&gt;Description:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RA-007</title>
+      <link>https://example.org/007/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/007/</guid>
+      <description>&lt;p&gt;Device #: RA-007&lt;/p&gt;&#xA;&lt;p&gt;Device type:&lt;/p&gt;&#xA;&lt;p&gt;License:&lt;/p&gt;&#xA;&lt;p&gt;Build Complexity:&lt;/p&gt;&#xA;&lt;p&gt;Description:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RA-008</title>
+      <link>https://example.org/008/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/008/</guid>
+      <description>&lt;p&gt;Device #: RA-008&lt;/p&gt;&#xA;&lt;p&gt;Device type:&lt;/p&gt;&#xA;&lt;p&gt;License:&lt;/p&gt;&#xA;&lt;p&gt;Build Complexity:&lt;/p&gt;&#xA;&lt;p&gt;Description:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RA-009</title>
+      <link>https://example.org/009/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/009/</guid>
+      <description>&lt;p&gt;Device #: RA-009&lt;/p&gt;&#xA;&lt;p&gt;Device type:&lt;/p&gt;&#xA;&lt;p&gt;License:&lt;/p&gt;&#xA;&lt;p&gt;Build Complexity:&lt;/p&gt;&#xA;&lt;p&gt;Description:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RA-010</title>
+      <link>https://example.org/010/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/010/</guid>
+      <description>&lt;p&gt;Device #: RA-010&lt;/p&gt;&#xA;&lt;p&gt;Device type:&lt;/p&gt;&#xA;&lt;p&gt;License:&lt;/p&gt;&#xA;&lt;p&gt;Build Complexity:&lt;/p&gt;&#xA;&lt;p&gt;Description:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
