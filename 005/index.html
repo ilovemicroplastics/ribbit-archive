@@ -31,14 +31,35 @@
   <main>
     
     <div id = article>
-        <p>Device #: RA-005</p>
-<p>Device type:</p>
-<p>License:</p>
-<p>Build Complexity:</p>
-<p>Description:</p>
+        <p class="article-image"><img src="/ribbit-archive/images/RA/005.jpg" alt=""></p>
+<p><strong>Device #:</strong> RA-005</p>
+<p><strong>Device type:</strong> Sensor</p>
+<p><strong>Name:</strong> Green Detect</p>
+<p><strong>License:</strong> <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC-BY-SA-4.0</a></p>
+<p><strong>Build Complexity:</strong> RA-005 requires a few tools to construct; soldering iron, a 3D printer for casing, and a screwdriver.
+Advanced electronics skills are essential as RA-005 provides very little tutorial apart from the schematics.
+This is sufficient, but will require being able to read an electronic schematic.
+Microcontroller skills may be needed if the build instructions become outdated and firmware updates are needed.</p>
+<p>RA-005 is very small so price is unlikely to be a constraint, at around 30USD (2025) per unit.
+But it is 3 years old as of writing, and it is likely certain electronic components may be discontinued or modified, therefore be prepared to make ad-hoc adjustments.</p>
+<p><strong>Description:</strong> RA-005 is a small off-grid sensor box which is capable of measuring the temperature, distance, smoke presence, air humidity, and soil humidity.
+It is powered by a small solar panel.
+A key distinguishing feature is that they are designed to work in a network, even in the forest where there is no centralised wireless communication system present.
+The sensors can communicate with each other up to 100m apart using the ESP-NOW protocol in a chain formation.
+The limit is 60 sensors in a daisy chain, where one of the sensors relays the information to a computer.
+Using this, a user can cover a 1km by 0.6km area of forest in sensors to monitor environmental conditions remotely.
+Then, a supervision PC connected to the internet can share the data with other such networks to create an open environmental monitoring system.</p>
+<p>It is possible that a RA-005 instance breaks in the middle of the chain,
+but this is accounted for as in such a case an alarm notification will be sent so that it may be fixed.
+Once encased in a box, the device is non-intrusive.
+The circuit can be modified to include other sensors, but each RA-005 may only output 4 bytes (This is a limitation of how the information is chained between RA-005s).</p>
+<p>RA-005 was created in 2022 by Sergio Ghiradelli in Italy.</p>
+<p><strong>Link to Design Files:</strong> <a href="https://github.com/Green-bms/GreenDetect">GitHub</a>
+<a href="https://hackaday.io/project/186064-green-detect">Hackaday</a>
+<a href="https://certification.oshwa.org/it000009.html">OSHWA</a></p>
 
-        Article Version: 0 -
-        Latest edit: 15/09/2025
+        Article Version: 1 -
+        Latest edit: 23/09/2025
     </div>
 
   </main>

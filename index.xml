@@ -39,9 +39,9 @@
     <item>
       <title>RA-005</title>
       <link>https://ilovemicroplastics.github.io/ribbit-archive/005/</link>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://ilovemicroplastics.github.io/ribbit-archive/005/</guid>
-      <description>&lt;p&gt;Device #: RA-005&lt;/p&gt;&#xA;&lt;p&gt;Device type:&lt;/p&gt;&#xA;&lt;p&gt;License:&lt;/p&gt;&#xA;&lt;p&gt;Build Complexity:&lt;/p&gt;&#xA;&lt;p&gt;Description:&lt;/p&gt;</description>
+      <description>&lt;p class=&#34;article-image&#34;&gt;&lt;img src=&#34;https://ilovemicroplastics.github.io/ribbit-archive/images/RA/005.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Device #:&lt;/strong&gt; RA-005&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Device type:&lt;/strong&gt; Sensor&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Green Detect&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.en&#34;&gt;CC-BY-SA-4.0&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Build Complexity:&lt;/strong&gt; RA-005 requires a few tools to construct; soldering iron, a 3D printer for casing, and a screwdriver.&#xA;Advanced electronics skills are essential as RA-005 provides very little tutorial apart from the schematics.&#xA;This is sufficient, but will require being able to read an electronic schematic.&#xA;Microcontroller skills may be needed if the build instructions become outdated and firmware updates are needed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>RA-006</title>
