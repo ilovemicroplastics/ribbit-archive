@@ -39,25 +39,29 @@
 <p><strong>Build Complexity:</strong> No specialised tools are required to assemble RA-001 beyond a soldering iron, flathead and Philips-head screwdriver, along with M2/3/4/5 Hex Keys.
 Having access to a laser cutter is beneficial for the acrylic stages, but they can be accomplished through alternative means such as ordering pre-cut acrylic online.
 At least basic electronics skills are required, as one must read a circuit diagram, connect the wires correctly, and be able to safely handle a lead-acid battery.
-Beyond that, assembly is simply screwing parts together.</p>
-<p>As an important caveat, certain parts such as the wheels and the wire connectors have fallen out of production. In the current version of the design,
+Being able to use a laser cutter is advisable if doing so yourself.
+Beyond that, assembly is simply screwing parts together.
+If no parts are missing it is expected to take 10h.</p>
+<p>The instructions are (in theory) designed specifically to be easy to follow.
+RA-001 was last updated in 2025, but it is not quite at 100% completion.
+Certain parts such as the wheels and the wire connectors have fallen out of production. In the current version of the design,
 it is essential to exercise critical thinking when selecting alternative replacement parts in place of the unavailable components.
 Although, the vast majority of components are generic and easy to source.
 The expected BoM is approximately 350USD (2024).</p>
 <p><strong>Description:</strong> RA-001 is an approximately 0.5m by 0.5m autonomous mobile platform, who&rsquo;s primary purpose is to be retrofitted with additional equipment to complete a desired task.
 The 4 wheeled robot uses skid-steering to navigate, and it is capable of traversing fields with small bumps up to 8cm tall thanks to the &ldquo;lazy-susan&rdquo; joint.
 The joint connecting the two sections can rotate, allowing RA-001 to fit to the terrain it drives over.
-Without this addition RA-001 would be too rigid to cross small obstacles on the way, drastically reducing it&rsquo;s usability.
-However, the joint can be omitted if the the plan is to drive over a perfectly flat surface.</p>
-<p>RA-001 can be safely fitted with 6kg of payload moving at 0.45m/s, likely more without the central joint as it is the limting factor.
-A fully charged lead acid battery lasting for around an hour of operation with only dry weight.
-RA-001 is controlled remotely, through either bluetooth or Wi-Fi. This is achieved by sending signals to the receiver in the ESP-32 which controls the motors.
+RA-001 can be safely fitted with 6kg of payload moving at 0.45m/s, likely more without the central joint as it is the limting factor.
+A fully charged lead acid battery lasting for around an hour of operation with only dry weight.</p>
+<p>RA-001 is controlled remotely, through either bluetooth or Wi-Fi. This is achieved by sending signals to the receiver in the ESP-32 which controls the motors.
 In theory, the ESP-32 can send status signals back but this will take some tinkering to set up.
 Over Wi-Fi RA-001 uses a pseudo-ROS2 simulated interface, using a small subset of it&rsquo;s syntax.
 ROS2 running on a computer can be configured to control RA-001, but it&rsquo;s important to note that the ESP-32 microcontroller is not powerful enough to run ROS2 locally.</p>
 <p>A simulation of RA-001 exists within the robot simulator Gazebo Harmonic.
 It is suitable for testing algorithms or getting familiar before committing to construction.
 It must be noted that the simulation is not perfectly accurate to real world physics, therefore it doesn&rsquo;t map to RA-001&rsquo;s behaviour 1-to-1.</p>
+<p>One common modification removing the central joint when the plan is to drive over a flat surface.
+There are also two versions with an alternative control circuit, and an additional experimental &ldquo;whisker&rdquo; sensor.</p>
 <p>RA-001 was developed at the University of Lincoln (UK) in 2021 as a teaching project, and in part to attempt to address the prohibitive costs of many research robots.
 As of writing the latter is a work in progress, but RA-001 is perfectly viable as a learning project for anyone new to robotics.
 For this purpose the design oversights are actually a benefit because they require the builder to use critical thinking and to develop design skills to finish construction.</p>
@@ -66,8 +70,8 @@ For this purpose the design oversights are actually a benefit because they requi
 <a href="https://doi.org/10.5334/joh.54">Original Paper</a>
 <a href="https://arxiv.org/abs/2508.00625">Paper Analysing History</a></p>
 
-        Article Version: 4 -
-        Latest edit: 23/09/2025
+        Article Version: 5 -
+        Latest edit: 24/09/2025
     </div>
 
   </main>
